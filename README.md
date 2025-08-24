@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Chisomworlu12/Testimonials-solution.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution here](https://github.com/Chisomworlu12/Testimonials-solution.git)
+- Live Site URL: [live site here](https://testimonials-solution.vercel.app/)
 
 ### Built with
 
